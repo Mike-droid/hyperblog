@@ -33,3 +33,12 @@ body{
 #cabecera img{
     width: 2em;
 }
+
+footer{
+    background-color: gray;
+    color: white;
+    font-size: 1.3em;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
