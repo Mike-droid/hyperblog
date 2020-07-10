@@ -6,5 +6,18 @@
 #post{
     font-size: 20px;
     color: blue;
-    font-family: 'Courier New', Courier, monospace;
+}
+
+#cabecera{
+    background-color: #EE0;
+    color: #005;
+    font-size: 2em;
+    width: 50%;
+    font-style: italic;
+}
+
+#tagline{
+    padding-left: 20px;
+    font-size: 0.7em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
