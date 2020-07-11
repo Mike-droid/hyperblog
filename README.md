@@ -3,3 +3,4 @@ Un blog increíble para el curso profesional de git y github de platzi. Este es 
 
 Creado por el maravilloso Miguelón
 Incluye ejemplos en windows y linux
+Disponible para todas las edades
